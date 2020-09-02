@@ -1,0 +1,531 @@
+[
+  {
+    "cp": "01",
+    "name": "Ain",
+    "ville": "Bourg-en-Bresse"
+  },
+  {
+    "cp": "02",
+    "name": "Aisne",
+    "ville": "Laon"
+  },
+  {
+    "cp": "03",
+    "name": "Allier",
+    "ville": "Moulins"
+  },
+  {
+    "cp": "04",
+    "name": "Alpes-de-Haute-Provence",
+    "ville": "Digne"
+  },
+  {
+    "cp": "05",
+    "name": "Hautes-Alpes",
+    "ville": "Gap"
+  },
+  {
+    "cp": "06",
+    "name": "Alpes-Maritimes",
+    "ville": "Nice"
+  },
+  {
+    "cp": "07",
+    "name": "Ardèche",
+    "ville": "Privas"
+  },
+  {
+    "cp": "08",
+    "name": "Ardennes",
+    "ville": "Charleville-Mézières"
+  },
+  {
+    "cp": "09",
+    "name": "Ariège",
+    "ville": "Foix"
+  },
+  {
+    "cp": "10",
+    "name": "Aube",
+    "ville": "Troyes"
+  },
+  {
+    "cp": "11",
+    "name": "Aude",
+    "ville": "Carcassonne"
+  },
+  {
+    "cp": "12",
+    "name": "Aveyron",
+    "ville": "Rodez"
+  },
+  {
+    "cp": "13",
+    "name": "Bouches-du-Rhône",
+    "ville": "Marseille"
+  },
+  {
+    "cp": "14",
+    "name": "Calvados",
+    "ville": "Caen"
+  },
+  {
+    "cp": "15",
+    "name": "Cantal",
+    "ville": "Aurillac"
+  },
+  {
+    "cp": "16",
+    "name": "Charente",
+    "ville": "Angoulême"
+  },
+  {
+    "cp": "17",
+    "name": "Charente-Maritime",
+    "ville": "La Rochelle"
+  },
+  {
+    "cp": "18",
+    "name": "Cher",
+    "ville": "Bourges"
+  },
+  {
+    "cp": "19",
+    "name": "Corrèze",
+    "ville": "Tulle"
+  },
+  {
+    "cp": "20",
+    "name": "Corse",
+    "ville": "Ajaccio"
+  },
+  {
+    "cp": "21",
+    "name": "Côte-d'Or",
+    "ville": "Dijon"
+  },
+  {
+    "cp": "22",
+    "name": "Côtes d'Armor",
+    "ville": "St-Brieuc"
+  },
+  {
+    "cp": "23",
+    "name": "Creuse",
+    "ville": "Guéret"
+  },
+  {
+    "cp": "24",
+    "name": "Dordogne",
+    "ville": "Périgueux"
+  },
+  {
+    "cp": "25",
+    "name": "Doubs",
+    "ville": "Besançon"
+  },
+  {
+    "cp": "26",
+    "name": "Drôme",
+    "ville": "Valence"
+  },
+  {
+    "cp": "27",
+    "name": "Eure",
+    "ville": "Evreux"
+  },
+  {
+    "cp": "28",
+    "name": "Eure-et-Loir",
+    "ville": "Chartres"
+  },
+  {
+    "cp": "29",
+    "name": "Finistère",
+    "ville": "Quimper"
+  },
+  {
+    "cp": "30",
+    "name": "Gard",
+    "ville": "Nîmes"
+  },
+  {
+    "cp": "31",
+    "name": "Haute-Garonne",
+    "ville": "Toulouse"
+  },
+  {
+    "cp": "32",
+    "name": "Gers",
+    "ville": "Auch"
+  },
+  {
+    "cp": "33",
+    "name": "Gironde",
+    "ville": "Bordeaux"
+  },
+  {
+    "cp": "34",
+    "name": "Hérault",
+    "ville": "Montpellier"
+  },
+  {
+    "cp": "35",
+    "name": "Ille-et-Vilaine",
+    "ville": "Rennes"
+  },
+  {
+    "cp": "36",
+    "name": "Indre",
+    "ville": "Châteauroux"
+  },
+  {
+    "cp": "37",
+    "name": "Indre-et-Loire",
+    "ville": "Tours"
+  },
+  {
+    "cp": "38",
+    "name": "Isère",
+    "ville": "Grenoble"
+  },
+  {
+    "cp": "39",
+    "name": "Jura",
+    "ville": "Lons-le-Saunier"
+  },
+  {
+    "cp": "40",
+    "name": "Landes",
+    "ville": "Mont-de-Marsan"
+  },
+  {
+    "cp": "41",
+    "name": "Loir-et-Cher",
+    "ville": "Blois"
+  },
+  {
+    "cp": "42",
+    "name": "Loire",
+    "ville": "St-étienne"
+  },
+  {
+    "cp": "43",
+    "name": "Haute-Loire",
+    "ville": "Le Puy"
+  },
+  {
+    "cp": "44",
+    "name": "Loire-Atlantique",
+    "ville": "Nantes"
+  },
+  {
+    "cp": "45",
+    "name": "Loiret",
+    "ville": "Orléans"
+  },
+  {
+    "cp": "46",
+    "name": "Lot",
+    "ville": "Cahors"
+  },
+  {
+    "cp": "47",
+    "name": "Lot-et-Garonne",
+    "ville": "Agen"
+  },
+  {
+    "cp": "48",
+    "name": "Lozère",
+    "ville": "Mende"
+  },
+  {
+    "cp": "49",
+    "name": "Maine-et-Loire",
+    "ville": "Angers"
+  },
+  {
+    "cp": "50",
+    "name": "Manche",
+    "ville": "St-Lô"
+  },
+  {
+    "cp": "51",
+    "name": "Marne",
+    "ville": "Châlons-sur-Marne"
+  },
+  {
+    "cp": "52",
+    "name": "Haute-Marne",
+    "ville": "Chaumont"
+  },
+  {
+    "cp": "53",
+    "name": "Mayenne",
+    "ville": "Laval"
+  },
+  {
+    "cp": "54",
+    "name": "Meurthe-et-Moselle",
+    "ville": "Nancy"
+  },
+  {
+    "cp": "55",
+    "name": "Meuse",
+    "ville": "Bar-le-Duc"
+  },
+  {
+    "cp": "56",
+    "name": "Morbihan",
+    "ville": "Vannes"
+  },
+  {
+    "cp": "57",
+    "name": "Moselle",
+    "ville": "Metz"
+  },
+  {
+    "cp": "58",
+    "name": "Nièvre",
+    "ville": "Nevers"
+  },
+  {
+    "cp": "59",
+    "name": "Nord",
+    "ville": "Lille"
+  },
+  {
+    "cp": "60",
+    "name": "Oise",
+    "ville": "Beauvais"
+  },
+  {
+    "cp": "61",
+    "name": "Orne",
+    "ville": "Alençon"
+  },
+  {
+    "cp": "62",
+    "name": "Pas-de-Calais",
+    "ville": "Arras"
+  },
+  {
+    "cp": "63",
+    "name": "Puy-de-Dôme",
+    "ville": "Clermont-Ferrand"
+  },
+  {
+    "cp": "64",
+    "name": "Pyrénées-Atlantiques",
+    "ville": "Pau"
+  },
+  {
+    "cp": "65",
+    "name": "Hautes-Pyrénées",
+    "ville": "Tarbes"
+  },
+  {
+    "cp": "66",
+    "name": "Pyrénées-Orientales",
+    "ville": "Perpignan"
+  },
+  {
+    "cp": "67",
+    "name": "Bas-Rhin",
+    "ville": "Strasbourg"
+  },
+  {
+    "cp": "68",
+    "name": "Haut-Rhin",
+    "ville": "Colmar"
+  },
+  {
+    "cp": "69",
+    "name": "Rhône",
+    "ville": "Lyon"
+  },
+  {
+    "cp": "70",
+    "name": "Haute-Saône",
+    "ville": "Vesoul"
+  },
+  {
+    "cp": "71",
+    "name": "Saône-et-Loire",
+    "ville": "Mâcon"
+  },
+  {
+    "cp": "72",
+    "name": "Sarthe",
+    "ville": "Le Mans"
+  },
+  {
+    "cp": "73",
+    "name": "Savoie",
+    "ville": "Chambéry"
+  },
+  {
+    "cp": "74",
+    "name": "Haute-Savoie",
+    "ville": "Annecy"
+  },
+  {
+    "cp": "75",
+    "name": "Paris",
+    "ville": "Paris"
+  },
+  {
+    "cp": "76",
+    "name": "Seine-Maritime",
+    "ville": "Rouen"
+  },
+  {
+    "cp": "77",
+    "name": "Seine-et-Marne",
+    "ville": "Melun"
+  },
+  {
+    "cp": "78",
+    "name": "Yvelines",
+    "ville": "Versailles"
+  },
+  {
+    "cp": "79",
+    "name": "Deux-Sèvres",
+    "ville": "Niort"
+  },
+  {
+    "cp": "80",
+    "name": "Somme",
+    "ville": "Amiens"
+  },
+  {
+    "cp": "81",
+    "name": "Tarn",
+    "ville": "Albi"
+  },
+  {
+    "cp": "82",
+    "name": "Tarn-et-Garonne",
+    "ville": "Montauban"
+  },
+  {
+    "cp": "83",
+    "name": "Var",
+    "ville": "Toulon"
+  },
+  {
+    "cp": "84",
+    "name": "Vaucluse",
+    "ville": "Avignon"
+  },
+  {
+    "cp": "85",
+    "name": "Vendée",
+    "ville": "La Roche-sur-Yon"
+  },
+  {
+    "cp": "86",
+    "name": "Vienne",
+    "ville": "Poitiers"
+  },
+  {
+    "cp": "87",
+    "name": "Haute-Vienne",
+    "ville": "Limoges"
+  },
+  {
+    "cp": "88",
+    "name": "Vosges",
+    "ville": "épinal"
+  },
+  {
+    "cp": "89",
+    "name": "Yonne",
+    "ville": "Auxerre"
+  },
+  {
+    "cp": "90",
+    "name": "Terr. de Belfort",
+    "ville": "Belfort"
+  },
+  {
+    "cp": "91",
+    "name": "Essonne",
+    "ville": "Evry"
+  },
+  {
+    "cp": "92",
+    "name": "Hauts-de-Seine",
+    "ville": "Nanterre"
+  },
+  {
+    "cp": "93",
+    "name": "Seine-St-Denis",
+    "ville": "Bobigny"
+  },
+  {
+    "cp": "94",
+    "name": "Val-de-Marne",
+    "ville": "Créteil"
+  },
+  {
+    "cp": "95",
+    "name": "Val-D'Oise",
+    "ville": "Pontoise"
+  },
+  {
+    "cp": "971",
+    "name": "Guadeloupe",
+    "ville": "Basse-Terre",
+    "namest": "d"
+  },
+  {
+    "cp": "972",
+    "name": "Martinique",
+    "ville": "Fort-de-France",
+    "namest": "d"
+  },
+  {
+    "cp": "973",
+    "name": "Guyane",
+    "ville": "Cayenne",
+    "namest": "d"
+  },
+  {
+    "cp": "974",
+    "name": "Réunion",
+    "ville": "Saint-Denis",
+    "namest": "d"
+  },
+  {
+    "cp": "975",
+    "name": "Saint-Pierre-et-Miquelon",
+    "ville": "Saint-Pierre",
+    "namest": "t"
+  },
+  {
+    "cp": "976",
+    "name": "Mayotte",
+    "ville": "Mamoudzou",
+    "namest": "t"
+  },
+  {
+    "cp": "986",
+    "name": "Wallis-et-Futuna",
+    "ville": "Mata-Utu",
+    "namest": "t"
+  },
+  {
+    "cp": "987",
+    "name": "Polynésie française",
+    "ville": "Papeete",
+    "namest": "t"
+  },
+  {
+    "cp": "988",
+    "name": "Nouvelle-Calédonie",
+    "ville": "Nouméa",
+    "namest": "t"
+  }
+]
